@@ -1,0 +1,24 @@
+* text=auto;
+*.html text
+*.[jt]s text
+*.jsx text
+*.scss text
+*.css text
+*.md text
+*.json text
+*.html diff=html
+*.css diff=css
+*.eot binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tif binary
+*.tiff binary
+*.ico binary
+*.svg binary
+*.eps binary
+

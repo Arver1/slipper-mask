@@ -1,0 +1,19 @@
+{
+  "name": "slipper-mask",
+  "version": "0.0.1",
+  "description": "A simple JavaScript library for masking HTML input fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arver1 <aactepanov@mail.ru> (http://github.com/Arver1)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arver1/slipper-mask.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arver1/slipper-mask/issues"
+  },
+  "homepage": "https://github.com/Arver1/slipper-mask#readme"
+}
