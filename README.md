@@ -1,4 +1,4 @@
-#👟 Slipper-mask
+# 👡 Slipper-mask
 **A simple JavaScript library for masking HTML input fields.**
 
 ![img](img/slipper.jpg)
@@ -10,15 +10,16 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 ![img](https://img.shields.io/badge/code%20style-Airbnb-blue)
 [![codecov](https://codecov.io/gh/arver1/slipper-mask/branch/master/graph/badge.svg)](https://codecov.io/gh/arver1/slipper-mask)
-##Installation
+## Installation
 <pre>npm install --save slipper-mask</pre>
 
 or
 
 <pre>yarn add final-form</pre>
 
-##Usage
+## Usage
 
 ```js
 import { createMask, subscribe } from 'slipper-mask';
+
 ```
